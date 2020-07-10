@@ -29,7 +29,7 @@ def loop_message_n_times (message, limit)
       new_array.push (array[count].to_s)
         count += 1 
       end 
-  #     new_array
+      new_array
     end 
       
     
